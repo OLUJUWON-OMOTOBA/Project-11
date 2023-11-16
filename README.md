@@ -1,3 +1,4 @@
+### Project Overview
 The "[Tesla Stock Analytics](https://github.com/OLUJUWON-OMOTOBA/Project-11/blob/main/Tesla%20Stocks.pbix)" Power BI project was designed to offer a detailed and visualized overview of key metrics related to Tesla's stock performance. The project involved collecting, analyzing, and visualizing historical data related to Tesla's stock prices and trading volumes to empower stakeholders with insights for strategic decision-making. Here's an overview of the key components and features that were included in the "Tesla Stock Analytics" Power BI project:
 
 1. **Data Sources:**
